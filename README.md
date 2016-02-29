@@ -20,4 +20,4 @@ Below is a description of the project instructions:
 
 Additional Information
 
-Additional information in the CodeBook.MD file.
+Additional information can be found in the CodeBook.MD file.
